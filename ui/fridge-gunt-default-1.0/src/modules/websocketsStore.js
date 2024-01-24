@@ -41,7 +41,7 @@ const websocketstore = {
         ATS_Array: [],
         APS_Array: [],
 
-        url: 'ws://127.0.0.1:8181/test',
+        url: '',//ws://127.0.0.1:8181/test
         websocket: null,
         receivedData: null,
         jsonValue: null,
